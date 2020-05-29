@@ -23,6 +23,11 @@ Charts Experiment
 * Highcharts https://www.highcharts.com/demo
 * ZingChart https://www.zingchart.com/
 
+### Books
+
+* The Visual Display of Quantitative Information - Edward Tufte https://www.edwardtufte.com/tufte/books_vdqi
+* Envisioning Information - Edward Tufte https://www.edwardtufte.com/tufte/books_ei
+
 ### Articles
 
 * Top 10 JavaScript Charting Libraries for Every Data Visualization Need https://hackernoon.com/10-javascript-charting-libraries-data-visualization-b77523d23372

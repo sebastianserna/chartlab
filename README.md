@@ -1,5 +1,5 @@
 # ChartLab
-Charts Experiment
+Data visualization experiments
 
 
 ### Libraries

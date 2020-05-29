@@ -1,4 +1,4 @@
-# Chartlab
+# ChartLab
 Charts Experiment
 
 

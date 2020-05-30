@@ -28,6 +28,10 @@ Data visualization experiments
 * The Visual Display of Quantitative Information - Edward Tufte https://www.edwardtufte.com/tufte/books_vdqi
 * Envisioning Information - Edward Tufte https://www.edwardtufte.com/tufte/books_ei
 
+### Resources
+
+* The Data Visualisation Catalogue https://datavizcatalogue.com/
+
 ### Articles
 
 * Top 10 JavaScript Charting Libraries for Every Data Visualization Need https://hackernoon.com/10-javascript-charting-libraries-data-visualization-b77523d23372

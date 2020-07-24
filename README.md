@@ -22,6 +22,7 @@ Data visualization experiments
 * Chartist https://github.com/gionkunz/chartist-js
 * Highcharts https://www.highcharts.com/demo
 * ZingChart https://www.zingchart.com/
+* Echarts https://echarts.apache.org
 
 ### Books
 

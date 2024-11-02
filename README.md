@@ -23,6 +23,7 @@ Data visualization experiments
 * Highcharts https://www.highcharts.com/demo
 * ZingChart https://www.zingchart.com/
 * Echarts https://echarts.apache.org
+* Mermaid https://mermaid.js.org/
 
 ### Books
 

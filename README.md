@@ -25,6 +25,11 @@ Data visualization experiments
 * Echarts https://echarts.apache.org
 * Mermaid https://mermaid.js.org/
 
+# Apps and services
+
+* Polinode https://www.polinode.com/ (Sigmajs)
+* Marvel Graphs https://www.marvel-graphs.net/ (Sigmajs)
+
 ### Books
 
 * The Visual Display of Quantitative Information - Edward Tufte https://www.edwardtufte.com/tufte/books_vdqi

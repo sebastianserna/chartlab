@@ -25,7 +25,7 @@ Data visualization experiments
 * Echarts https://echarts.apache.org
 * Mermaid https://mermaid.js.org/
 
-# Apps and services
+### Apps & services
 
 * Polinode https://www.polinode.com/ (Sigmajs)
 * Marvel Graphs https://www.marvel-graphs.net/ (Sigmajs)
